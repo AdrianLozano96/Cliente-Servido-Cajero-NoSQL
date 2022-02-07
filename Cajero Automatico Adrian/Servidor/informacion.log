@@ -1,0 +1,32 @@
+[2022-01-15 19:27:52] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 1 Ingresar dinero
+[2022-01-15 19:27:54] [ INFO ] [GestorClientes:57] Se ha realizado un ingreso de 55.0 quedando la cuenta del usuario user@5.com con un importe de 5055.0
+[2022-01-15 19:27:57] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 2 Retirar dinero
+[2022-01-15 19:27:59] [ INFO ] [GestorClientes:57] Se ha realizado un retiro de 5.0 quedando la cuenta del usuario user@5.com con un saldo de 5050.0
+[2022-01-15 19:28:00] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 3 Consultar saldo
+[2022-01-15 19:28:00] [ INFO ] [GestorClientes:57] Saldo actual de la cuenta: Enorabuena aun tienes saldo suficiente en tu cuenta, tu saldo actual es de 5050.0
+[2022-01-15 19:28:01] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 4 Salir
+[2022-01-15 19:28:59] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 3 Consultar saldo
+[2022-01-15 19:28:59] [ INFO ] [GestorClientes:57] Saldo actual de la cuenta: Enorabuena aun tienes saldo suficiente en tu cuenta, tu saldo actual es de 6000.0
+[2022-01-15 19:29:02] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 4 Salir
+[2022-01-16 14:30:49] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 3 Consultar saldo
+[2022-01-16 14:30:49] [ INFO ] [GestorClientes:57] Saldo actual de la cuenta: Enorabuena aun tienes saldo suficiente en tu cuenta, tu saldo actual es de 6000.0
+[2022-01-16 14:30:55] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 1 Ingresar dinero
+[2022-01-16 14:30:59] [ INFO ] [GestorClientes:57] Se ha realizado un ingreso de 66.0 quedando la cuenta del usuario user@6.com con un importe de 6066.0
+[2022-01-16 14:31:00] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 2 Retirar dinero
+[2022-01-16 14:31:02] [ INFO ] [GestorClientes:57] Se ha realizado un retiro de 6.0 quedando la cuenta del usuario user@6.com con un saldo de 6060.0
+[2022-01-16 14:31:03] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 3 Consultar saldo
+[2022-01-16 14:31:03] [ INFO ] [GestorClientes:57] Saldo actual de la cuenta: Enorabuena aun tienes saldo suficiente en tu cuenta, tu saldo actual es de 6060.0
+[2022-01-16 14:31:06] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 4 Salir
+[2022-01-16 14:34:35] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 3 Consultar saldo
+[2022-01-16 14:34:35] [ INFO ] [GestorClientes:57] Saldo actual de la cuenta: Enorabuena aun tienes saldo suficiente en tu cuenta, tu saldo actual es de 5000.0
+[2022-01-16 14:34:58] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 3 Consultar saldo
+[2022-01-16 14:34:58] [ INFO ] [GestorClientes:57] Saldo actual de la cuenta: Enorabuena aun tienes saldo suficiente en tu cuenta, tu saldo actual es de 6000.0
+[2022-01-16 14:35:00] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 4 Salir
+[2022-01-17 18:34:12] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 1 Ingresar dinero
+[2022-01-17 18:34:38] [ INFO ] [GestorClientes:57] Se ha realizado un ingreso de 75.0 quedando la cuenta del usuario user@5.com con un importe de 5075.0
+[2022-01-17 18:35:02] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 2 Retirar dinero
+[2022-01-17 18:35:11] [ INFO ] [GestorClientes:57] Se ha realizado un retiro de 5.0 quedando la cuenta del usuario user@5.com con un saldo de 5070.0
+[2022-01-17 18:35:23] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 3 Consultar saldo
+[2022-01-17 18:35:23] [ INFO ] [GestorClientes:57] Saldo actual de la cuenta: Enorabuena aun tienes saldo suficiente en tu cuenta, tu saldo actual es de 5070.0
+[2022-01-17 18:35:37] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 4 Salir
+[2022-01-17 18:42:18] [ INFO ] [GestorClientes:57] Has seleccionado la Opción 4 Salir

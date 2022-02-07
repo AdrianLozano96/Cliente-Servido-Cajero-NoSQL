@@ -1,0 +1,27 @@
+# Indicamos la versión
+version: '3.7'
+
+# Mis servicios
+# Iniciamos los servicios
+services:
+  # MONGO DB
+  cajeroDB-server:
+    image: mongo
+    container_name: MiCajero-server
+    ports:
+      - 27017:27017
+    expose:
+      - 27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: adrian
+      MONGO_INITDB_ROOT_PASSWORD: adrian
+      MONGO_INITDB_DATABASE: cajeroDB
+      # ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+    #command: --auth
+    # Monto la unidad y le cargo unos datos
+      #volumes:
+      # - ./init:/docker-entrypoint-initdb.d
+    #  - mongo-volumen:/data/db
+    # networks:
+    #  - mongo-network
+    # restart: always
